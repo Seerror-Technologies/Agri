@@ -1,0 +1,10 @@
+{
+  "structured": {
+    "date": "2024-06-04",
+    "practice_type": "fertilizer",
+    "product": "compost",
+    "amount": "100kg/ha",
+    "crop": "millet",
+    "notes": "04/06/2024: applied compost 100kg/ha and sowed millet"
+  }
+}
